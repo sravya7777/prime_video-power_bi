@@ -70,7 +70,7 @@ The dataset `amazon_prime_titles.csv` includes details of TV Shows and Movies av
 ## 💡 Author
 
 **Sravya Reddy**  
-Frontend Developer | Data Analyst| UI/UX Designer  
+Frontend Developer | Data Analyst | UI/UX Designer  
 📍 Hyderabad, India
 
 ---
